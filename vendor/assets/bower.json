@@ -1,0 +1,10 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "bootstrap-markdown": "latest",
+    "markdown-js": "latest",
+    "marked": "latest",
+    "to-markdown": "latest",
+    "jquery-easing": "latest"
+  }
+}
