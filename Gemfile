@@ -50,6 +50,8 @@ gem 'devise'
 
 #image uploader
 gem 'carrierwave', '~> 1.0'
+gem 'mini_magick'
+
 
 #前端包管理bower-rails
 gem "bower-rails", "~> 0.10.0"
