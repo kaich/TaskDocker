@@ -49,7 +49,7 @@ gem 'font-awesome-sass'
 gem 'devise'
 
 #image uploader
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', github: 'carrierwaveuploader/carrierwave'
 gem 'mini_magick'
 
 
